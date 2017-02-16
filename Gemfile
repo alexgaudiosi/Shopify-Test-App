@@ -19,7 +19,7 @@ gem 'shopify_app'
 gem 'dotenv-rails'
 gem 'httparty'
 gem 'activeresource', github: 'rails/activeresource'
-
+gem 'heroku_secrets', github: 'alexpeattie/heroku_secrets'
 
 group :development, :test do
 
