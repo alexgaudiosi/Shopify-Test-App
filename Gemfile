@@ -16,6 +16,8 @@ gem 'jquery-rails'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'shopify_app'
+gem 'dotenv-rails'
+gem 'httparty'
 gem 'activeresource', github: 'rails/activeresource'
 
 
